@@ -17,7 +17,7 @@ public class HelloApplication extends Application {
         primaryStage.setTitle("Login");
 
         GridPane grid = new GridPane();
-        grid.setPadding(new Insets(20, 20, 20, 20));
+        grid.setPadding(new Insets(22, 22, 22, 22));
         grid.setVgap(10);
         grid.setHgap(10);
 
